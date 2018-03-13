@@ -1,0 +1,1 @@
+{"source":".jumpy-label {\n  color: #333;\n  background-color: #fff;\n}\n.jumpy-label.high-contrast {\n  color: #333;\n  background-color: #17ca65;\n}\n"}

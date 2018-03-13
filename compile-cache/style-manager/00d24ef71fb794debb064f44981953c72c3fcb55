@@ -1,0 +1,1 @@
+{"source":".icomoon {\n  font-family: \"icomoon\";\n  text-align: center;\n}\n.icon-long-arrow-down {\n  font-family: \"icomoon\";\n  text-align: center;\n  content: \"\\f175\";\n}\n.icon-long-arrow-up {\n  font-family: \"icomoon\";\n  text-align: center;\n  content: \"\\f176\";\n}\n"}

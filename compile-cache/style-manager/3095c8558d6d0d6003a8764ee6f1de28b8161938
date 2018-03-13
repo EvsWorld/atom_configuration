@@ -1,0 +1,1 @@
+{"source":".indent-guide-improved {\n  width: 1px;\n  z-index: 100;\n  position: absolute;\n}\n.indent-guide-improved {\n  background-color: rgba(85, 85, 85, 0.2);\n}\n.indent-guide-improved.indent-guide-stack {\n  background-color: rgba(12, 12, 12, 0.52);\n}\n.indent-guide-improved.indent-guide-stack.indent-guide-active {\n  background-color: rgba(1, 1, 1, 0.92);\n}\n"}

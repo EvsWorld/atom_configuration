@@ -1,0 +1,1 @@
+{"source":".browser-refresh-view {\n  padding: 15px;\n  font-weight: bold;\n}\n.browser-refresh-view .type-alert {\n  color: #e2c08d;\n}\n.browser-refresh-view .type-success {\n  color: #73c990;\n}\n"}

@@ -1,0 +1,1 @@
+{"source":".navigate {\n  text-align: center;\n}\n.navigate .loading-spinner-large {\n  width: 64px;\n  height: 64px;\n  display: block;\n  background-image: url(images/octocat-spinner-128.gif);\n  background-repeat: no-repeat;\n  background-size: cover;\n}\n"}
