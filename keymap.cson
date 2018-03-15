@@ -37,7 +37,6 @@
   "cmd-alt-shift-h": "editor:select-to-first-character-of-line"
   "cmd-alt-shift-l": "editor:select-to-end-of-line"
 
-
 'body':
   'cmd-p': 'window:focus-next-pane',
   'alt-up': 'core:move-up',
@@ -69,10 +68,6 @@
   "cmd-k cmd-right": "unset!",
   "cmd-,": "pane:show-previous-item",
   "cmd-.": "pane:show-next-item",
-  "k": "core:move-up",
-  "j": "core:move-down",
-
-
 
 'atom-workspace atom-text-editor:not([mini])':
   'shift-cmd-c': 'editor:duplicate-lines'
@@ -124,10 +119,8 @@
   "cmd-; cmd-d": "find-and-replace:select-skip",
   "cmd-k cmd-d": "unset!"
 
-
 'atom-text-editor.autocomplete-active':
   'enter': 'autocomplete-plus:confirm',
-
 
 'body atom-text-editor.autocomplete-active':
   'shift-tab': 'autocomplete-plus:move-up',
@@ -143,10 +136,8 @@
   'shift-ctrl-q': 'open-in-browser:open',
   'shift-cmd-E': 'color-picker:open'
 
-
 'atom-workspace':
   'ctrl-q': 'browser-refresh:open'
-
 
 'atom-text-editor:not([mini])': {
   # 'ctrl-alt-e': 'emmet:expand-abbreviation'
@@ -159,7 +150,6 @@
   "ctrl-shift-e": "editor:select-to-end-of-line",
   'ctrl-s': "editor:select-line",
   "alt-e": 'emmet:expand-abbreviation',
-
 }
 
 'atom-workspace atom-text-editor:not(.mini)':
