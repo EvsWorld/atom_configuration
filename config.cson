@@ -30,7 +30,6 @@
     ]
     telemetryConsent: "limited"
   editor:
-    fontSize: 13
     softTabs: false
     softWrap: true
     softWrapAtPreferredLineLength: true
@@ -38,7 +37,6 @@
     userId: "23e298a5-1ab4-4765-96e6-79ea5280b8d0"
   "highlight-line":
     enableUnderline: true
-    hideHighlightOnSelect: true
   "language-babel":
     autoIndentJSX: true
     emmetCSSAutocomplete: true

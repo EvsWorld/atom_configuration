@@ -34,6 +34,8 @@
   "cmd-k cmd-l": "unset!",
   "cmd-shift-backspace": "unset!",
   "ctrl-j": "editor:delete-to-beginning-of-line",
+  "cmd-alt-shift-h": "editor:select-to-first-character-of-line"
+  "cmd-alt-shift-l": "editor:select-to-end-of-line"
 
 
 'body':
@@ -45,18 +47,14 @@
   'ctrl-,': 'pane:show-previous-item',
   'ctrl-.': 'pane:show-next-item',
   'ctrl-p': 'window:focus-next-pane',
-  "cmd-; up": "pane:split-up-and-copy-active-item",
-  "cmd-; down": "pane:split-down-and-copy-active-item",
-  "cmd-; left": "pane:split-left-and-copy-active-item",
-  "cmd-; right": "pane:split-right-and-copy-active-item",
+  "cmd-; k": "pane:split-up-and-copy-active-item",
+  "cmd-; j": "pane:split-down-and-copy-active-item",
+  "cmd-; h": "pane:split-left-and-copy-active-item",
+  "cmd-; l": "pane:split-right-and-copy-active-item",
   "cmd-; cmd-w": "pane:close",
   "cmd-; alt-cmd-w": "pane:close-other-items",
   "cmd-; cmd-p": "window:focus-previous-pane",
   "cmd-; cmd-n": "window:focus-next-pane",
-  "cmd-; k": "window:focus-pane-above",
-  "cmd-; j": "window:focus-pane-below",
-  "cmd-; h": "window:focus-pane-on-left",
-  "cmd-; l": "window:focus-pane-on-right",
   "cmd-k up": "unset!",
   "cmd-k down": "unset!",
   "cmd-k left": "unset!",
@@ -70,7 +68,9 @@
   "cmd-k cmd-left": "unset!",
   "cmd-k cmd-right": "unset!",
   "cmd-,": "pane:show-previous-item",
-  "cmd-.": "pane:show-next-item"
+  "cmd-.": "pane:show-next-item",
+  "k": "core:move-up",
+  "j": "core:move-down",
 
 
 
