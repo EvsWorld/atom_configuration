@@ -10,3 +10,4 @@ compile-cache/*
 recovery
 storage
 blob-store
+.tags*
