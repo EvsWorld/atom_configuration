@@ -2,5 +2,11 @@ packages/*
 .DS_Store
 compile-cache
 .node/.node-gyp/*
+.node-gyp/*
 .apm
 .apm/*
+blob-store
+compile-cache/*
+recovery
+storage
+blob-store
